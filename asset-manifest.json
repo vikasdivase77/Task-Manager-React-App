@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vikasdivase77/Task-Manager-React-App.git/static/css/main.53e037a9.css",
+    "main.js": "/vikasdivase77/Task-Manager-React-App.git/static/js/main.cc82e319.js",
+    "index.html": "/vikasdivase77/Task-Manager-React-App.git/index.html",
+    "main.53e037a9.css.map": "/vikasdivase77/Task-Manager-React-App.git/static/css/main.53e037a9.css.map",
+    "main.cc82e319.js.map": "/vikasdivase77/Task-Manager-React-App.git/static/js/main.cc82e319.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53e037a9.css",
+    "static/js/main.cc82e319.js"
+  ]
+}
